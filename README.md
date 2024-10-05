@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rajat Yadav
 - 👀 I’m interested in software development roles.
 - 🌱 I’m a keen learner of latest cutting edge technologies, love challenging myself when it comes to solving new problems.
-- Visit http://rajat698.github.io to learn more about me. 
+- Visit http://rajatyadav.us to learn more about me. 
 - Collaborate with me, I won't let you down.
 
 <!---
